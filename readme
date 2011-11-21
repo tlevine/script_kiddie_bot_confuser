@@ -1,0 +1,11 @@
+Script kiddies crawl your site looking for security vulnerabilities.
+Your site is secure because you're awesome, but you still find these
+script kiddies annoying.
+
+The script kiddy bot confuser responds in confusing ways to the requests
+of these bots.
+
+Since the bots are likely running in threads rather than event loops,
+responding slowly will probably slow down their crawls. The default
+behavior of the script kiddy bot confuser is not to respond at all
+to the bots.
