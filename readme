@@ -9,3 +9,8 @@ Since the bots are likely running in threads rather than event loops,
 responding slowly will probably slow down their crawls. The default
 behavior of the script kiddy bot confuser is not to respond at all
 to the bots.
+
+If you want to ban the users, you need to install django-ban and ipcalc
+and then make some change in the settings file.
+
+CHANGE GOES HERE

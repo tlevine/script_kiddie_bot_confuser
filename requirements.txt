@@ -1,0 +1,3 @@
+django
+django-ban
+ipcalc >= 0.1
